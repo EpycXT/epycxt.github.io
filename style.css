@@ -78,6 +78,7 @@
 }
 
 .text a {
+    border-radius: 10px;
     display: list-item;
     list-style: none;
     font-size: 1.5em;
