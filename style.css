@@ -71,7 +71,7 @@
 }
 
 .text p {
-    font-size: 1.5em;
+    font-size: 3em;
     margin: 20px 0;
     font-weight: 700;
     max-width: 600px;
@@ -81,7 +81,7 @@
     border-radius: 10px;
     display: list-item;
     list-style: none;
-    font-size: 1.5em;
+    font-size: 3em;
     font-weight: 700;
     background: #fff;
     padding: 20px 20px;
