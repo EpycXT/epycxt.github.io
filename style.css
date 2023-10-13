@@ -74,7 +74,7 @@
     font-size: 2em;
     margin: 20px 0;
     font-weight: 700;
-    max-width: 600px;
+    max-width: 500px;
 }
 
 .text a {
@@ -88,12 +88,12 @@
     text-decoration: none;
     color: #111;
     margin-top: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     transition: 0.5s ease;
 }
 
 .text a:hover {
-    letter-spacing: 4px;
+    letter-spacing: 5px;
 }
 
 /*.social {
